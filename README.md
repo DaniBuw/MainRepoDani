@@ -1,2 +1,2 @@
-# TestRepo
-Dit is een repo om te leren hoe Git werkt.
+# Hoi
+Dit is de main Repo van Dani Buwalda LBICOSD582.
